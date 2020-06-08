@@ -1,1 +1,1 @@
-console.log("myapp->app.js");
+console.log("myapp -> app.js");
